@@ -34,7 +34,7 @@ fun calculateSalary(numberOfDays: Int): Int {
     return if (totalHours <= REGULAR_HOURS) {
         totalHours * 10
     } else {
-        (REGULAR_HOURS * 10) + (totalHours - REGULAR_HOURS * 20)
+        (REGULAR_HOURS * 10) + ((totalHours - REGULAR_HOURS) * 20)
     }
 }
 
