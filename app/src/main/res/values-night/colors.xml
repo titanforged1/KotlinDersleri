@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#FF66CC</color>           <!-- ToolBar rengi (açık neon pembe) -->
+    <color name="colorPrimaryDark">#99004D</color>       <!-- Status bar rengi (koyu pembe/bordo) -->
+    <color name="colorAccent">#00CED1</color>            <!-- Turkuaz tonu (bir tık koyusu) -->
+    <color name="backgroundColor">#1A1A1A</color>        <!-- Koyu gri arka plan, göz yormaz -->
+    <color name="textColorPrimary">#66CCFF</color>       <!-- Açık mavi yazılar (mavimsi neon) -->
+    <color name="textColorOnButton">#FFFFFF</color>      <!-- Buton üstü yazılar için beyaz -->
+    <color name="buttonColor">#339966</color>            <!-- Doymuş koyu yeşil buton -->
+    <color name="buttonTextColor">#FFFFFF</color>        <!-- Buton yazısı -->
+    <color name="highlightColor">#FF9933</color>         <!-- Retro turuncu (daha soft) -->
+    <color name="cardBackgroundColor">#660066</color>    <!-- Mor tonlu kart arka planı -->
+</resources>
+
+

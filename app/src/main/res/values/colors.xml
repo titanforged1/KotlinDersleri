@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0099</color>          <!-- ToolBar rengi -->
+    <color name="colorPrimaryDark">#CC007A</color>     <!-- Status bar rengi -->
+    <color name="colorAccent">#00FFFF</color>          <!-- Buton rengi veya vurgu -->
+    <color name="backgroundColor">#FFFF66</color>      <!-- Arka plan (background) -->
+    <color name="textColorPrimary">#3399FF</color>     <!-- Ana yazılar (siyah net görünür) -->
+    <color name="textColorOnButton">#000000</color>    <!-- Buton üzerindeki yazı rengi -->
+    <color name="buttonColor">#00CC66</color>          <!-- Alternatif buton rengi -->
+    <color name="buttonTextColor">#FFFFFF</color>      <!-- Yeşil buton için beyaz yazı -->
+    <color name="highlightColor">#FF6600</color>       <!-- Öne çıkarılacak yerler -->
+    <color name="cardBackgroundColor">#FFCCFF</color>  <!-- Kartlar, kutular, diyaloglar -->
+
+</resources>

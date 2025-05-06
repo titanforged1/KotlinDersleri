@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="title">90lara Dön! </string>
+    <string name="button">Ürünü İncele</string>
+    <string name="button2">Sepete Ekle</string>
+    <string name="textView">“90’lar Burada Yeniden Başlıyor.”</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/advent_pro_extrabold</item>
+        <item>@font/akronim</item>
+        <item>@font/rubik_bubbles</item>
+        <item>@font/rubik_burned</item>
+        <item>@font/rubik_wet_paint</item>
+    </array>
+</resources>

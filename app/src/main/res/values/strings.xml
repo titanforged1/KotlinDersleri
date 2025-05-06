@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="title">Back to the 90s</string>
+    <string name="button">View Details</string>
+    <string name="button2">Add To Cart</string>
+    <string name="textView">“The 90s Are Starting Again—Right Here!”</string>
+</resources>
